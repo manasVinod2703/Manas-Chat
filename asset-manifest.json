@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Manas-Chat/static/css/main.e9df9cbd.css",
+    "main.js": "/Manas-Chat/static/js/main.87e2fb57.js",
+    "index.html": "/Manas-Chat/index.html",
+    "main.e9df9cbd.css.map": "/Manas-Chat/static/css/main.e9df9cbd.css.map",
+    "main.87e2fb57.js.map": "/Manas-Chat/static/js/main.87e2fb57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9df9cbd.css",
+    "static/js/main.87e2fb57.js"
+  ]
+}
