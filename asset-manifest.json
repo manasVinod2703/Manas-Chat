@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Manas-Chat/static/css/main.e9df9cbd.css",
-    "main.js": "/Manas-Chat/static/js/main.cf77fe08.js",
+    "main.js": "/Manas-Chat/static/js/main.fe1c2563.js",
     "index.html": "/Manas-Chat/index.html",
     "main.e9df9cbd.css.map": "/Manas-Chat/static/css/main.e9df9cbd.css.map",
-    "main.cf77fe08.js.map": "/Manas-Chat/static/js/main.cf77fe08.js.map"
+    "main.fe1c2563.js.map": "/Manas-Chat/static/js/main.fe1c2563.js.map"
   },
   "entrypoints": [
     "static/css/main.e9df9cbd.css",
-    "static/js/main.cf77fe08.js"
+    "static/js/main.fe1c2563.js"
   ]
 }
